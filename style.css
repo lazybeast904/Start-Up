@@ -1,0 +1,17 @@
+*
+class { 
+   color:blue
+   
+    
+} 
+
+body {
+    column-width: 150px;
+    color: bisque;
+}
+section {
+
+    background-color: blueviolet;
+}
+
+ 
